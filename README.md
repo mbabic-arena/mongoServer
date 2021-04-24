@@ -46,11 +46,7 @@ Currently are in use the following dependencies:
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check [issues page](https://github.com/mbabic-arena/mongoServer/issues). You can also take a look at the [contributing guide](https://github.com/mbabic-arena/mongoServer/blob/master/CONTRIBUTING.md).
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
+Feel free to check [issues page](https://github.com/mbabic-arena/mongoServer/issues).
 
 ## 📝 License
 
@@ -59,5 +55,3 @@ Copyright © 2021 [Miroslav Babic](https://github.com/mbabic-arena).
 This project is [ISC](https://github.com/mbabic-arena/mongoServer/blob/master/LICENSE) licensed.
 
 ---
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
